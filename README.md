@@ -6,7 +6,7 @@ Designed relational tables: Products, Customers, and Sales.
 Established primary & foreign keys to ensure referential integrity.
 Inserted sample sales data covering multiple product categories, customers, and regions.
 
-2️. Data Extraction & Transformation (Python + MySQL):
+2️. Data Extraction & Transformation (Python + MySQL):<br/>
 Connected Python to MySQL using PyMySQL.
 Extracted sales data from the database.
 Performed basic cleaning & transformation to prepare the dataset.
